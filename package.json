@@ -1,0 +1,22 @@
+{
+  "name": "simpleurlshortener",
+  "version": "1.0.0",
+  "description": "a backend project for shortener of url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biniyamgirma/CodeAlpha_SimpleURLShortener.git"
+  },
+  "author": "Biniyam Girma Alemu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biniyamgirma/CodeAlpha_SimpleURLShortener/issues"
+  },
+  "homepage": "https://github.com/Biniyamgirma/CodeAlpha_SimpleURLShortener#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
